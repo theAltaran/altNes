@@ -8,5 +8,5 @@ import React  from 'react';
 import styles from '../../styles/Logo.module.css'
 
 export const Logo: React.FC<Object> = (props) => {
-  return <div className={styles['logo']}>WebNES</div>;
+  return <div className={styles['logo']}>altNES</div>;
 }
